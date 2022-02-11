@@ -3,7 +3,7 @@ Here you will find sample Go apps illustrating how to authenticate Twitch API ca
 
 ## Installation
 ```sh
-$ go get -u github.com/twitchdev/authentication-samples/go/...
+$ go get -u github.com/twitchdev/authentication-go-sample/oauth-authorization-code
 ```
 
 ## Usage
